@@ -2,7 +2,7 @@
 
 #### I am a Fullstack Software developer
 
-Alaribe is a Front-End Engineer with ~5 years of experience in software development. He is skilled in JavaScript, React.js, Node.js, and TypeScript and is familiar with Scrum, Jira, and AWS. Alaribe is a Udemy instructor who facilitates courses on React.js, Node.js, MongoDB, Docker, CSS, Angular, Nest.js, and Python. He enjoys building software, sharing knowledge, and collaborating with other engineers.
+Bright is a Fullstack Software developer with ~5 years of experience in software development. He is skilled in JavaScript, React.js, Node.js, and TypeScript and is familiar with Scrum, Jira, and AWS. Bright is a Udemy instructor who facilitates courses on React.js, Node.js, MongoDB, Docker, CSS, Angular, Nest.js, and Python. He enjoys building software, sharing knowledge, and collaborating with other engineers.
 
 Skills: REACT / ANGULAR / NODE.JS / NEST.JS / MongoDB / SQL
 
