@@ -1,11 +1,21 @@
 ### Hi there 👋, my name is Bright
 
-#### I am Fullstack Software developer
+#### I am a Fullstack Software developer
+
 Alaribe is a Front-End Engineer with ~5 years of experience in software development. He is skilled in JavaScript, React.js, Node.js, and TypeScript and is familiar with Scrum, Jira, and AWS. Alaribe is a Udemy instructor who facilitates courses on React.js, Node.js, MongoDB, Docker, CSS, Angular, Nest.js, and Python. He enjoys building software, sharing knowledge, and collaborating with other engineers.
 
-Skills: REACT / ANGULAR / NODE.JS / NEST.JS / MONGODB / SQL
+Skills: REACT / ANGULAR / NODE.JS / NEST.JS / MongoDB / SQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on My own company 
+- 🌱 I’m currently learning Java 
+- 💬 Ask me about software 
+- 📫 How to reach me: LinkedIn / email 
+- 😄 Pronouns: He / Him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/laribright)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/laribright)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/laribright//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCTvF1UElM6k1LrLV7u4prow?themeRefresh=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://laribright.vercel.app/)  
+
+
 
 
 
