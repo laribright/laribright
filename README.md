@@ -7,7 +7,7 @@ Bright is a Fullstack Software developer with ~7 years of experience in software
 Skills: REACT / ANGULAR / NODE.JS / NEST.JS / MongoDB / SQL
 
 - 🔭 I’m currently working on My own company 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning C# 
 - 💬 Ask me about software 
 - 📫 How to reach me: LinkedIn / email 
 - 😄 Pronouns: He / Him 
