@@ -1,38 +1,35 @@
-### Hi there 👋, my name is Bright
+### Hi there 👋, I'm Bright Alaribe
 
-#### I am a Fullstack Software developer
+#### **Senior Frontend Engineer | Next.js & TypeScript Expert | Technical Educator**
 
-Bright is a Fullstack Software developer with ~7 years of experience in software development. He is skilled in JavaScript, React.js, Node.js, and TypeScript and is familiar with Scrum, Jira, and AWS. Bright is a Udemy instructor who facilitates courses on React.js, Node.js, MongoDB, Docker, CSS, Angular, Nest.js, and Python. He enjoys building software, sharing knowledge, and collaborating with other engineers.
+I am a Senior Software Engineer with **7+ years of experience** specializing in high-performance web applications. I bridge the gap between complex frontend architecture and robust, sovereign infrastructure. Currently, I'm scaling **Vendlinx**, a creator-commerce platform, and teaching modern full-stack patterns to **6,400+ developers** on my YouTube channel.
 
-Skills: REACT / ANGULAR / NODE.JS / NEST.JS / MongoDB / SQL
+* 🔭 **Currently Building**: [Vendlinx](https://vendlinx.com) – A digital commerce platform for creators to sell courses and ebooks.
+* 🎥 **Technical Education**: I run **CodeWithLari**, where I share deep-dives on Next.js, Flutter, and performance engineering.
+* 🏗️ **Infrastructure**: I'm passionate about **Infrastructure Sovereignty**, moving from managed services to self-hosted, Dockerized VPS environments.
+* 💬 **Ask me about**: Next.js (App Router), TypeScript, Performance Optimization, and System Design.
 
-- 🔭 I’m currently working on My own company 
-- 🌱 I’m currently learning C# 
-- 💬 Ask me about software 
-- 📫 How to reach me: LinkedIn / email 
-- 😄 Pronouns: He / Him 
+---
 
+### 🛠️ Tech Stack & Tools
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/laribright)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/laribright)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/laribright/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCTvF1UElM6k1LrLV7u4prow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://laribright.vercel.app/)  
+* **Frontend**: React, Next.js (RSC), TypeScript, Flutter, React Native, Tailwind CSS, Shadcn UI.
+* **Backend**: Node.js, Nest.js, Supabase, PostgreSQL, Prisma, GraphQL.
+* **Infrastructure**: Docker, Hetzner VPS, Coolify, GitHub Actions, AWS.
+* **Testing**: Playwright, Vitest, MSW.
 
+---
 
+### 🚀 Key Projects & Impact
 
+* **[Vendlinx](https://vendlinx.com)**: A full-scale commerce platform featuring a modular storefront builder, secure payment integrations, and a sovereign infrastructure built on Next.js and Docker.
+* **[CodeWithLari (YouTube)](https://www.youtube.com/@codewithlari)**: Technical education platform with **6,400+ subscribers**. I architect and ship production-grade clones (Wise, Slack, etc.) to teach high-level concepts like Fintech integrations, TDD, and Cross-Platform development.
 
+---
 
+### 📫 Connect with me
 
-
-
-<!--
-**laribright/laribright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **YouTube**: [youtube.com/@codewithlari](https://www.youtube.com/@codewithlari)
+* **X (Twitter)**: [x.com/bright_alaribe](https://x.com/bright_alaribe)
+* **Email**: [laribright8@gmail.com](mailto:laribright8@gmail.com)
+* **LinkedIn**: [linkedin.com/in/laribright](https://www.linkedin.com/in/laribright/)
