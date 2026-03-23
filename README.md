@@ -4,8 +4,8 @@
 
 I am a Senior Software Engineer with **7+ years of experience** specializing in high-performance web applications. I bridge the gap between complex frontend architecture and robust, sovereign infrastructure. Currently, I'm scaling **Vendlinx**, a creator-commerce platform, and teaching modern full-stack patterns to **6,400+ developers** on my YouTube channel.
 
-* 🔭 **Currently Building**: [Vendlinx](https://vendlinx.com) – A digital commerce platform for creators to sell courses and ebooks.
-* 🎥 **Technical Education**: I run **CodeWithLari**, where I share deep-dives on Next.js, Flutter, and performance engineering.
+* 🔭 **Currently Building**: Spring Boot Projects.
+* 🎥 **Technical Education**: I run **CodeWithLari**, where I share deep-dives on Next.js, Flutter, Nest.js, AI, React Native, and performance engineering.
 * 🏗️ **Infrastructure**: I'm passionate about **Infrastructure Sovereignty**, moving from managed services to self-hosted, Dockerized VPS environments.
 * 💬 **Ask me about**: Next.js (App Router), TypeScript, Performance Optimization, and System Design.
 
