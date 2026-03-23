@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Bright Alaribe
 
-#### **Senior Frontend Engineer | Next.js & TypeScript Expert | Technical Educator**
+#### **Senior Fullstack Engineer | Next.js, TypeScript, and Java Expert | Technical Educator**
 
-I am a Senior Software Engineer with **7+ years of experience** specializing in high-performance web applications. I bridge the gap between complex frontend architecture and robust, sovereign infrastructure. Currently, I'm scaling **Vendlinx**, a creator-commerce platform, and teaching modern full-stack patterns to **6,400+ developers** on my YouTube channel.
+I am a Senior Software Engineer with **7+ years of experience** specializing in high-performance web applications. I bridge the gap between complex frontend architecture and robust, sovereign infrastructure. Currently, I'm teaching modern full-stack patterns to **6,400+ developers** on my YouTube channel.
 
 * 🔭 **Currently Building**: Spring Boot Projects.
 * 🎥 **Technical Education**: I run **CodeWithLari**, where I share deep-dives on Next.js, Flutter, Nest.js, AI, React Native, and performance engineering.
@@ -14,7 +14,7 @@ I am a Senior Software Engineer with **7+ years of experience** specializing in 
 ### 🛠️ Tech Stack & Tools
 
 * **Frontend**: React, Next.js (RSC), TypeScript, Flutter, React Native, Tailwind CSS, Shadcn UI.
-* **Backend**: Node.js, Nest.js, Supabase, PostgreSQL, Prisma, GraphQL.
+* **Backend**: Node.js, Nest.js, Supabase, PostgreSQL, Prisma, Java, GraphQL.
 * **Infrastructure**: Docker, Hetzner VPS, Coolify, GitHub Actions, AWS.
 * **Testing**: Playwright, Vitest, MSW.
 
